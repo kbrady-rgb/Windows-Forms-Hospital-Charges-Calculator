@@ -1,0 +1,19 @@
+C:\Users\Kabrina\Documents\C#\HospitalChargesBrady\HospitalChargesBrady\obj\Debug\HospitalChargesBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\HospitalChargesBrady\HospitalChargesBrady\obj\Debug\HospitalChargesBrady.HospitalChargesForm.resources
+C:\Users\Kabrina\Documents\C#\HospitalChargesBrady\HospitalChargesBrady\obj\Debug\HospitalChargesBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\HospitalChargesBrady\HospitalChargesBrady\obj\Debug\HospitalChargesBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\HospitalChargesBrady\HospitalChargesBrady\obj\Debug\HospitalChargesBrady.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\HospitalChargesBrady\HospitalChargesBrady\bin\Debug\HospitalChargesBrady.exe.config
+C:\Users\Kabrina\Documents\C#\HospitalChargesBrady\HospitalChargesBrady\bin\Debug\HospitalChargesBrady.exe
+C:\Users\Kabrina\Documents\C#\HospitalChargesBrady\HospitalChargesBrady\bin\Debug\HospitalChargesBrady.pdb
+C:\Users\Kabrina\Documents\C#\HospitalChargesBrady\HospitalChargesBrady\obj\Debug\HospitalChargesBrady.exe
+C:\Users\Kabrina\Documents\C#\HospitalChargesBrady\HospitalChargesBrady\obj\Debug\HospitalChargesBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\HospitalChargesBrady\HospitalChargesBrady\bin\Debug\HospitalChargesBrady.exe.config
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\HospitalChargesBrady\HospitalChargesBrady\bin\Debug\HospitalChargesBrady.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\HospitalChargesBrady\HospitalChargesBrady\bin\Debug\HospitalChargesBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\HospitalChargesBrady\HospitalChargesBrady\obj\Debug\HospitalChargesBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\HospitalChargesBrady\HospitalChargesBrady\obj\Debug\HospitalChargesBrady.HospitalChargesForm.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\HospitalChargesBrady\HospitalChargesBrady\obj\Debug\HospitalChargesBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\HospitalChargesBrady\HospitalChargesBrady\obj\Debug\HospitalChargesBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\HospitalChargesBrady\HospitalChargesBrady\obj\Debug\HospitalChargesBrady.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\HospitalChargesBrady\HospitalChargesBrady\obj\Debug\HospitalChargesBrady.pdb
